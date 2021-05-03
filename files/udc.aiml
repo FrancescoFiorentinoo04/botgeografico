@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>hello bot</pattern>
+    <template>hello world!</template>
+</category>
+</aiml>
+<category>
+    <pattern>qual è il capoluogo del lazio</pattern>
+    <template>il capoluogo del lazio è roma</template>
+</category>
+</aiml>
